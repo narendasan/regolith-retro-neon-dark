@@ -1,11 +1,11 @@
 ! -- Styles - Colors
-#include "/etc/regolith/styles/retro-neon-dark/color"
+#include "/etc/regolith/styles/regolith-retro-neon-dark/color"
 
 ! -- Styles - Fonts
-#include "/etc/regolith/styles/retro-neon-dark/typeface"
+#include "/etc/regolith/styles/regolith-retro-neon-dark/typeface"
 
 ! -- Styles - Theme
-#include "/etc/regolith/styles/retro-neon-dark/theme"
+#include "/etc/regolith/styles/regolith-retro-neon-dark/theme"
 
 ! -- Applications
 ! These files map values defined above into specific app settings.
