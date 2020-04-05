@@ -15,7 +15,7 @@
    light1:           #E6EAD4;
 
    background-color: @dark1;
-   border-color:     @dark2;
+   border-color:     @light1;
    text-color:       @dark3;
    dark-text-color:  @dark4;
    main-color:       @blue;
@@ -26,7 +26,7 @@
 
 window {
    background-color: @background-color;
-   width: 640px;
+   width: 1000px;
    padding: 10px;
    fullscreen: false;
    border:  2px;
