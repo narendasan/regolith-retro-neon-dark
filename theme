@@ -1,7 +1,7 @@
 #define gtk_theme           Ayu-Dark
 #define icon_theme          Pop
 #define desktop_wallpaper   
-#define rofi_theme          ~/.config/regolith/styles/retro-neon-dark/rofi.rasi
+#define rofi_theme          /etc/regolith/styles/regolith-retro-neon-dark/rofi.rasi
 
 #define i3wm_window_border_size         1
 #define i3wm_floatingwindow_border_size 1
