@@ -1,0 +1,17 @@
+! Ayu Dark colors
+#define color_base03   #1E1F23
+#define color_base02   #1E1F23
+#define color_base01   #A8AAAE
+#define color_base00   #A8AAAE
+#define color_base0    #E6EAD4
+#define color_base1    #E6EAD4
+#define color_base2    #E7E8E1
+#define color_base3    #E7E8E1
+#define color_yellow   #E3B45F
+#define color_orange   #EAA437
+#define color_red      #E23A41
+#define color_magenta  #D8007B
+#define color_violet   #DA2661
+#define color_blue     #237FE7
+#define color_cyan     #3CC3BF
+#define color_green    #34B965
